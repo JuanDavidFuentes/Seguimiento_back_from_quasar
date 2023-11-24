@@ -12,4 +12,4 @@ const HelpersMaquinas = {
     },
 }
 
-export default HelpersMaquinas;  
+export default HelpersMaquinas;   
